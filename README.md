@@ -1,1 +1,1 @@
-Data source - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVB3Wm1TWFRrc3AzdVdKTWtVTUE2S2RmUGFaUXxBQ3Jtc0tuWjVyWU1FaEdwYXREMEJfZEF1MnFjempfeG0tWXhzdmVONnRrRnEtTVQ2MzNmTHM1T0tTOHJ5anIwcUxGMHVVeGtyc2lETDVBT2NYcTE3b3c4Y2pFU2VjWmR6Y0FSdDU0Z09NNHdHWU5Kay1aV2c5Yw&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths&v=qfyynHBFOsM
+Data source - https://ourworldindata.org/covid-deaths
